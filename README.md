@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Katie.
+I’m currently learning C++ at Yandex.Practicum courses.
+My training is almost complete, so I'm looking for some opportunities to further develop my skills on real projects.
 
 <!--
 **KatherineSamokhina/KatherineSamokhina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
